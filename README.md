@@ -27,7 +27,7 @@ Survive as long as possible while enjoying the immersive animations and sounds!
 - **Phoenix Resurrection:** <br>
   After colliding with a SunnyCloud, the phoenix resurrects with a unique animation.
   
-  <img src="scene.png" alt="" width="300">
+  <img src="scene.png" alt="" width="500">
 
 ### 2. Animations
 - **Flapping Wings Animation:** Loops while the phoenix is flying.
@@ -35,7 +35,7 @@ Survive as long as possible while enjoying the immersive animations and sounds!
 - **Resurrection Animation:** Plays when the colliding with a SunnyCloud.
 - **Smooth Transitions:** Animations switch states immediately based on gameplay conditions using an Animation Controller.
   
-  <img src="animator.png" alt="" width="300">
+  <img src="animator.png" alt="" width="500">
 
 ### 3. User Interface
 - **Main Menu:**
@@ -43,13 +43,13 @@ Survive as long as possible while enjoying the immersive animations and sounds!
   - Options: Located in the top-left corner.
   - Master Volume Slider: Adjusts all in-game sounds and music.
     
-    <img src="main.png" alt="" width="300">
+    <img src="main.png" alt="" width="500">
 - **Pause Menu:**
   - Activated by pressing the Escape key.
   - Displays options in the center of the screen, including "Return to Main Menu."
   - Background is dimmed while the pause menu is active.
     
-    <img src="pause.png" alt="" width="300">
+    <img src="pause.png" alt="" width="500">
 
 ### 4. Scene Management
 The game includes two gameplay scenes.
@@ -59,7 +59,7 @@ The game includes two gameplay scenes.
 - **Smooth Transition:**
   The transition between scenes is asynchronous, ensuring there are no interruptions or delays. The background music continues to play uninterrupted during the transition, maintaining immersion.
   
-  <img src="scene1.png" alt="" width="300">
+  <img src="scene1.png" alt="" width="500">
 
 ### 5. Audio System
 - **Background Music:**
