@@ -1,11 +1,4 @@
 # Wings & Weather 2
-In this game, players control a phoenix bird that:
-
-- Flies across the screen, flapping its wings with a smooth animation.
-- Gains new life by colliding with SunnyClouds and takes damage by colliding with StormyClouds.
-- Resurrects from ashes when healed after damage, showcasing a unique animation.
-- Plays different sound effects for interactions (thunderstorm, healing sounds).
-- Navigates through multiple gameplay scenes with seamless transitions and asynchronous loading.
 
 ## How to Play
 - The game starts at the Main Menu, where you can control all game sounds using the slider in the bottom-right corner.
@@ -79,4 +72,18 @@ The game includes two gameplay scenes.
   | Asynchronization(10x)         |                               |
 
 
- 
+## References
+
+- **Sprites**:
+  - Phoenix Model: https://chasersgaming.itch.io/pheonix
+  - Cloud Sprites: https://pngtree.com
+  - Backgrounds: https://www.freepik.com
+
+- **Sound**:
+  - Thunder Sound: <a href="https://pixabay.com/users/blendertimer-9538909/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=245174">Daniel Roberts</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=245174">Pixabay</a>
+
+  - Healing Sound: <a href="https://pixabay.com/users/benkirb-8692052/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=268907">Benjamin Adams</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=268907">Pixabay</a>
+  - Background Music: Sound Effect by <a href="https://pixabay.com/users/sergequadrado-24990007/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=275487">Sergei Chetvertnykh</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=275487">Pixabay</a>
+
+## Gameplay Link
+https://rojda-o.itch.io/wings-weather-2
