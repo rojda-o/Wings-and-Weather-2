@@ -1,4 +1,4 @@
-# Wings & Weather
+# Wings & Weather 2
 In this game, players control a phoenix bird that:
 
 - Flies across the screen, flapping its wings with a smooth animation.
@@ -6,6 +6,15 @@ In this game, players control a phoenix bird that:
 - Resurrects from ashes when healed after damage, showcasing a unique animation.
 - Plays different sound effects for interactions (thunderstorm, healing sounds).
 - Navigates through multiple gameplay scenes with seamless transitions and asynchronous loading.
+
+## How to Play
+- The game starts at the Main Menu, where you can control all game sounds using the slider in the bottom-right corner.
+- Click the Play button in the top-left corner to start the game.
+- Press Escape during gameplay to open the Pause Menu, where you can return to the Main Menu.
+- Navigate the phoenix to interact with clouds and avoid losing all lives.
+- When bird dies, the game restarts from the Main Menu.
+
+Survive as long as possible while enjoying the immersive animations and sounds!
 
 ## Features Demonstrated
 
