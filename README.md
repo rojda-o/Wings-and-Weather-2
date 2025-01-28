@@ -16,7 +16,7 @@ Survive as long as possible while enjoying the immersive animations and sounds!
 - **Phoenix Bird Controls:** <br>
   The bird moves with arrow keys, restricted to the game window boundaries.
 - **Cloud Interactions:** <br>
-  SunnyCloud: Adds a life point and plays a healing sound and shows a healing animation. <br>
+  SunnyCloud: Adds a life point and plays a healing sound and shows a healing animation if the bird has previously taken damage from a collision with a stormy cloud. <br>
   StormyCloud: Reduces a life point, plays a thunderstorm sound and shows a damage animation.
   
   <img src="scene.png" alt="" width="500">
