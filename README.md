@@ -1,11 +1,12 @@
 # Wings & Weather 2
 
 ## How to Play
-- The game starts at the Main Menu, where you can control all game sounds using the slider in the bottom-right corner.
-- Click the Play button in the top-left corner to start the game.
-- Press Escape during gameplay to open the Pause Menu, where you can return to the Main Menu.
+- The game starts at the **Main Menu**, where you can control all game sounds using the **slider** in the bottom-right corner.
+- Click the **Play** button in the top-left corner to start the game.
+- Press **Escape** during gameplay to open the **Pause Menu**, where you can return to the Main Menu.
 - Navigate the phoenix to interact with clouds and avoid losing all lives.
-- When bird dies, the game restarts from the Main Menu.
+- When the bird's lives reach **5**, it moves on to the **second scene**.
+- When bird dies, the game **restarts** from the **Main Menu**.
 
 Survive as long as possible while enjoying the immersive animations and sounds!
 
@@ -17,8 +18,6 @@ Survive as long as possible while enjoying the immersive animations and sounds!
 - **Cloud Interactions:** <br>
   SunnyCloud: Adds a life point and plays a healing sound and shows a healing animation. <br>
   StormyCloud: Reduces a life point, plays a thunderstorm sound and shows a damage animation.
-- **Phoenix Resurrection:** <br>
-  After colliding with a SunnyCloud, the phoenix resurrects with a unique animation.
   
   <img src="scene.png" alt="" width="500">
 
@@ -87,5 +86,3 @@ The game includes two gameplay scenes.
 
 ## Gameplay Link
 https://rojda-o.itch.io/wings-weather-2
-
-
