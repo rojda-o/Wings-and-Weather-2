@@ -61,14 +61,6 @@ The game includes two gameplay scenes.
   - StormyCloud: Plays a thunderstorm sound on collision.
   - SunnyCloud: Plays a healing sound on collision.
   - Sounds are spatial, reflecting their position relative to the player.
- 
-## Contributers
-
-  | İrem Aytaş - 21360859018      | Rojda Özevli - 22360859078    |
-  |-------------------------------|-------------------------------|
-  | Main Menu(30x)                | Animations(30x)               |
-  | Pause Menu(20x)               | Sound and Music(30x)          |
-  | Asynchronization(10x)         |                               |
 
 
 ## References
